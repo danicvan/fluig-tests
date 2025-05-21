@@ -1,0 +1,41 @@
+{
+  "name": "fluig-tests",
+  "version": "1.0.0",
+  "description": "Automated tests for Fluig using Selenium and Jest",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testTimeout": 120000,
+    "reporters": [
+      "default",
+      [
+        "jest-html-reporter",
+        {
+          "pageTitle": "Fluig Test Report",
+          "outputPath": "./results/report/index.html",
+          "includeFailureMsg": true,
+          "includeConsoleLog": true
+        }
+      ]
+    ]
+  },
+  "keywords": ["fluig", "selenium", "jest", "automation", "testing"],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "path": "^0.12.7",
+    "selenium-webdriver": "^4.32.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^136.0.2",
+    "fs": "^0.0.1-security",
+    "jest": "^29.7.0",
+    "jest-html-reporter": "^4.1.0"
+  }
+}

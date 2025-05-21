@@ -1,0 +1,19 @@
+# ⛔ Node modules
+node_modules/
+
+# ⛔ Environment configs
+.env
+
+# ✅ Allow example config
+!.env.example
+
+# ⛔ Output folders
+results/screenshots/
+results/report/
+
+# ⛔ Logs and debug
+*.log
+
+# ⛔ OS/system files
+.DS_Store
+Thumbs.db
