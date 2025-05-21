@@ -543,3 +543,1073 @@ Wait timed out after 516ms
 [2025-05-21T03:16:45.959Z] ✅ Processo enviado com sucesso
 [2025-05-21T03:16:46.228Z] 📸 Screenshot salva: step-13-processo-enviado.png
 [2025-05-21T03:16:47.847Z] >> Teste finalizado
+[2025-05-21T03:49:55.891Z] >> Iniciando teste
+[2025-05-21T03:50:11.478Z] ✅ Login realizado
+[2025-05-21T03:50:11.658Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T03:50:12.081Z] ❌ Erro capturado: element not interactable
+  (Session info: chrome=136.0.7103.114)
+[2025-05-21T03:50:15.291Z] >> Teste finalizado
+[2025-05-21T03:56:24.140Z] >> Iniciando teste
+[2025-05-21T03:56:39.449Z] ✅ Login realizado
+[2025-05-21T03:56:39.634Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T03:56:39.967Z] ❌ Erro capturado: element not interactable
+  (Session info: chrome=136.0.7103.114)
+[2025-05-21T03:56:41.581Z] >> Teste finalizado
+[2025-05-21T03:56:57.096Z] >> Iniciando teste
+[2025-05-21T03:57:09.857Z] ✅ Login realizado
+[2025-05-21T03:57:10.036Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T03:57:10.094Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T03:57:10.392Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T03:57:10.875Z] ✅ Clicou em "Processos"
+[2025-05-21T03:57:11.034Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T03:57:13.226Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T03:57:13.637Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T03:57:14.873Z] ❌ Erro capturado: Waiting for element to be located By(xpath, //span[@class='fancytree-title' and text()='Cadastro'])
+Wait timed out after 1057ms
+[2025-05-21T03:57:16.415Z] >> Teste finalizado
+[2025-05-21T03:57:43.141Z] >> Iniciando teste
+[2025-05-21T03:57:55.545Z] ✅ Login realizado
+[2025-05-21T03:57:55.840Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T03:57:56.258Z] ❌ Erro capturado: element not interactable
+  (Session info: chrome=136.0.7103.114)
+[2025-05-21T03:57:57.745Z] >> Teste finalizado
+[2025-05-21T03:58:21.246Z] >> Iniciando teste
+[2025-05-21T03:58:35.791Z] ✅ Login realizado
+[2025-05-21T03:58:35.972Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T03:58:36.030Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T03:58:36.312Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T03:58:36.840Z] ✅ Clicou em "Processos"
+[2025-05-21T03:58:36.998Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T03:58:38.325Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T03:58:38.591Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T03:58:40.022Z] ❌ Erro capturado: Waiting for element to be located By(xpath, //span[@class='fancytree-title' and text()='Cadastro'])
+Wait timed out after 1007ms
+[2025-05-21T03:58:41.558Z] >> Teste finalizado
+[2025-05-21T03:59:10.059Z] >> Iniciando teste
+[2025-05-21T03:59:29.100Z] ✅ Login realizado
+[2025-05-21T03:59:29.279Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T03:59:29.348Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T03:59:29.701Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T03:59:30.179Z] ✅ Clicou em "Processos"
+[2025-05-21T03:59:30.321Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T03:59:31.093Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T03:59:32.006Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T03:59:33.319Z] ✅ Clicou em "Cadastro"
+[2025-05-21T03:59:33.537Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T03:59:37.998Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T03:59:48.991Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T03:59:55.640Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T03:59:55.875Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T03:59:56.338Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T03:59:56.509Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T03:59:56.828Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T03:59:57.181Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T03:59:57.434Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T03:59:57.695Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T03:59:57.853Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T03:59:57.984Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T03:59:57.993Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T04:00:08.215Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T04:00:10.471Z] ✅ Processo enviado com sucesso
+[2025-05-21T04:00:10.954Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T04:00:21.457Z] >> Teste finalizado
+[2025-05-21T04:05:41.784Z] >> Iniciando teste
+[2025-05-21T04:05:54.960Z] ✅ Login realizado
+[2025-05-21T04:05:55.141Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T04:05:55.528Z] ❌ Erro capturado: element not interactable
+  (Session info: chrome=136.0.7103.114)
+[2025-05-21T04:06:06.455Z] >> Teste finalizado
+[2025-05-21T04:15:24.754Z] >> Iniciando teste
+[2025-05-21T04:15:32.846Z] ✅ Login realizado
+[2025-05-21T04:15:33.055Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T04:15:33.104Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:15:33.475Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T04:15:34.070Z] ✅ Clicou em "Processos"
+[2025-05-21T04:15:34.298Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T04:15:36.634Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T04:15:36.872Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T04:15:39.086Z] ✅ Clicou em "Cadastro"
+[2025-05-21T04:15:39.313Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T04:15:42.997Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T04:15:46.401Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T04:16:05.538Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T04:16:05.764Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T04:16:06.217Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T04:16:06.462Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T04:16:06.931Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T04:16:07.065Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T04:16:07.270Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T04:16:07.578Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T04:16:07.916Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T04:16:08.214Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T04:16:08.228Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T04:16:18.643Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T04:16:22.190Z] ✅ Processo enviado com sucesso
+[2025-05-21T04:16:22.581Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T04:16:27.802Z] 🔢 Número da solicitação capturado: 6868
+[2025-05-21T04:16:38.448Z] >> Teste finalizado
+[2025-05-21T04:16:52.205Z] >> Iniciando teste
+[2025-05-21T04:17:02.005Z] ✅ Login realizado
+[2025-05-21T04:17:02.217Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T04:17:02.261Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:17:02.618Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T04:17:03.309Z] ✅ Clicou em "Processos"
+[2025-05-21T04:17:03.477Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T04:17:04.244Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T04:17:05.160Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T04:17:07.327Z] ✅ Clicou em "Cadastro"
+[2025-05-21T04:17:07.524Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T04:17:12.855Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T04:17:20.262Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T04:17:27.495Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T04:17:27.940Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T04:17:28.317Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T04:17:28.500Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T04:17:28.925Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T04:17:29.094Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T04:17:29.285Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T04:17:29.435Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T04:17:29.569Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T04:17:29.730Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T04:17:29.736Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T04:17:40.031Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T04:17:44.764Z] ✅ Processo enviado com sucesso
+[2025-05-21T04:17:45.216Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T04:17:50.783Z] 🔢 Número da solicitação capturado: 6869
+[2025-05-21T04:18:02.580Z] ❌ Erro capturado: Waiting for URL to contain "login"
+Wait timed out after 10196ms
+[2025-05-21T04:18:12.599Z] >> Teste finalizado
+[2025-05-21T04:18:36.687Z] >> Iniciando teste
+[2025-05-21T04:18:51.307Z] ✅ Login realizado
+[2025-05-21T04:18:51.479Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T04:18:51.513Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:18:51.825Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T04:18:52.358Z] ✅ Clicou em "Processos"
+[2025-05-21T04:18:52.535Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T04:18:54.883Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T04:18:55.333Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T04:18:57.894Z] ✅ Clicou em "Cadastro"
+[2025-05-21T04:18:58.130Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T04:19:02.455Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T04:19:05.019Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T04:19:18.439Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T04:19:18.747Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T04:19:19.166Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T04:19:19.370Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T04:19:19.680Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T04:19:19.815Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T04:19:19.999Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T04:19:20.222Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T04:19:20.374Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T04:19:20.525Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T04:19:20.531Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T04:19:30.773Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T04:19:37.054Z] ✅ Processo enviado com sucesso
+[2025-05-21T04:19:37.409Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T04:19:42.925Z] 🔢 Número da solicitação capturado: 6870
+[2025-05-21T04:19:55.243Z] ❌ Erro capturado: Waiting for URL to contain "login"
+Wait timed out after 10221ms
+[2025-05-21T04:20:05.866Z] >> Teste finalizado
+[2025-05-21T04:23:31.366Z] >> Iniciando teste
+[2025-05-21T04:23:44.325Z] ✅ Login realizado
+[2025-05-21T04:23:44.618Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T04:23:44.785Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:23:45.187Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T04:23:45.862Z] ✅ Clicou em "Processos"
+[2025-05-21T04:23:46.079Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T04:23:48.426Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T04:23:48.786Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T04:23:50.830Z] ✅ Clicou em "Cadastro"
+[2025-05-21T04:23:51.069Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T04:23:53.692Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T04:23:57.380Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T04:24:06.144Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T04:24:06.646Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T04:24:07.132Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T04:24:07.327Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T04:24:07.924Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T04:24:08.112Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T04:24:08.324Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T04:24:08.472Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T04:24:08.630Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T04:24:08.807Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T04:24:08.818Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T04:24:18.979Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T04:24:23.823Z] ✅ Processo enviado com sucesso
+[2025-05-21T04:24:24.078Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T04:24:30.162Z] 🔢 Número da solicitação capturado: 6871
+[2025-05-21T04:24:36.292Z] ✅ Login realizado
+[2025-05-21T04:24:36.550Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T04:24:36.640Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:24:36.996Z] ❌ Erro capturado: element not interactable
+  (Session info: chrome=136.0.7103.114)
+[2025-05-21T04:24:47.601Z] >> Teste finalizado
+[2025-05-21T04:27:39.618Z] >> Iniciando teste
+[2025-05-21T04:27:46.437Z] ✅ Login realizado
+[2025-05-21T04:27:46.583Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T04:27:46.607Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:27:46.875Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T04:27:47.318Z] ✅ Clicou em "Processos"
+[2025-05-21T04:27:47.465Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T04:27:48.685Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T04:27:48.893Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T04:27:50.394Z] ✅ Clicou em "Cadastro"
+[2025-05-21T04:27:50.542Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T04:27:51.708Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T04:27:54.003Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T04:27:56.911Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T04:27:57.082Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T04:27:57.415Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T04:27:57.526Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T04:27:57.749Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T04:27:57.906Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T04:27:58.027Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T04:27:58.133Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T04:27:58.226Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T04:27:58.335Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T04:27:58.338Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T04:28:08.497Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T04:28:09.713Z] ✅ Processo enviado com sucesso
+[2025-05-21T04:28:09.904Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T04:28:15.427Z] 🔢 Número da solicitação capturado: 6872
+[2025-05-21T04:28:18.339Z] ✅ Login realizado
+[2025-05-21T04:28:18.460Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T04:28:18.478Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:28:18.742Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T04:28:19.146Z] ✅ Clicou em "Processos"
+[2025-05-21T04:28:19.290Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T04:28:20.341Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T04:28:20.472Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T04:28:20.813Z] ❌ Erro capturado: element not interactable
+  (Session info: chrome=136.0.7103.114)
+[2025-05-21T04:28:31.101Z] >> Teste finalizado
+[2025-05-21T04:33:19.617Z] >> Iniciando teste
+[2025-05-21T04:33:26.635Z] ✅ Login realizado
+[2025-05-21T04:33:26.890Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T04:33:26.964Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:33:27.256Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T04:33:27.809Z] ✅ Clicou em "Processos"
+[2025-05-21T04:33:27.962Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T04:33:29.799Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T04:33:30.001Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T04:33:31.630Z] ✅ Clicou em "Cadastro"
+[2025-05-21T04:33:31.788Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T04:33:32.854Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T04:33:34.798Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T04:33:37.336Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T04:33:37.548Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T04:33:37.862Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T04:33:37.983Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T04:33:38.198Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T04:33:38.344Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T04:33:38.535Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T04:33:38.638Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T04:33:38.731Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T04:33:38.855Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T04:33:38.861Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T04:33:49.010Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T04:33:50.099Z] ✅ Processo enviado com sucesso
+[2025-05-21T04:33:50.277Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T04:33:55.886Z] 🔢 Número da solicitação capturado: 6873
+[2025-05-21T04:33:59.036Z] ✅ Login realizado
+[2025-05-21T04:33:59.180Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T04:33:59.196Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:33:59.430Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T04:33:59.969Z] ✅ Clicou em "Processos"
+[2025-05-21T04:34:00.131Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T04:34:01.181Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T04:34:01.394Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T04:34:11.782Z] ❌ Erro capturado: Waiting until element is visible
+Wait timed out after 10101ms
+[2025-05-21T04:34:22.072Z] >> Teste finalizado
+[2025-05-21T04:43:03.729Z] >> Iniciando teste
+[2025-05-21T04:43:13.592Z] ✅ Login realizado
+[2025-05-21T04:43:13.818Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T04:43:13.843Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:43:14.156Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T04:43:14.580Z] ✅ Clicou em "Processos"
+[2025-05-21T04:43:14.741Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T04:43:15.980Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T04:43:16.174Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T04:43:17.599Z] ✅ Clicou em "Cadastro"
+[2025-05-21T04:43:17.745Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T04:43:18.862Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T04:43:20.743Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T04:43:23.859Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T04:43:23.998Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T04:43:24.345Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T04:43:24.468Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T04:43:24.670Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T04:43:24.796Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T04:43:24.925Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T04:43:25.033Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T04:43:25.134Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T04:43:25.250Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T04:43:25.254Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T04:43:35.389Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T04:43:36.527Z] ✅ Processo enviado com sucesso
+[2025-05-21T04:43:36.710Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T04:43:42.208Z] 🔢 Número da solicitação capturado: 6874
+[2025-05-21T04:43:53.350Z] ❌ Erro capturado: Waiting for URL to contain "login"
+Wait timed out after 10196ms
+[2025-05-21T04:44:03.624Z] >> Teste finalizado
+[2025-05-21T04:45:19.975Z] >> Iniciando teste
+[2025-05-21T04:45:26.713Z] ✅ Login realizado
+[2025-05-21T04:45:26.875Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T04:45:27.068Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:45:27.429Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T04:45:27.889Z] ✅ Clicou em "Processos"
+[2025-05-21T04:45:28.038Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T04:45:29.258Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T04:45:29.447Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T04:45:31.193Z] ✅ Clicou em "Cadastro"
+[2025-05-21T04:45:31.346Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T04:45:32.493Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T04:45:32.612Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T04:45:37.329Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T04:45:37.491Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T04:45:37.850Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T04:45:37.977Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T04:45:38.176Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T04:45:38.311Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T04:45:38.442Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T04:45:38.576Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T04:45:38.699Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T04:45:38.808Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T04:45:38.811Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T04:45:48.984Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T04:45:50.144Z] ✅ Processo enviado com sucesso
+[2025-05-21T04:45:50.338Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T04:45:56.011Z] 🔢 Número da solicitação capturado: 6875
+[2025-05-21T04:45:58.889Z] ✅ Login realizado
+[2025-05-21T04:45:59.036Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T04:45:59.049Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:45:59.290Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T04:45:59.686Z] ✅ Clicou em "Processos"
+[2025-05-21T04:45:59.818Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T04:46:00.889Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T04:46:01.042Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T04:46:01.055Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T04:46:11.198Z] ❌ Erro capturado: Waiting until element is visible
+Wait timed out after 10026ms
+[2025-05-21T04:46:21.590Z] >> Teste finalizado
+[2025-05-21T04:54:55.475Z] >> Iniciando teste
+[2025-05-21T04:55:02.521Z] ✅ Login realizado
+[2025-05-21T04:55:02.671Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T04:55:02.721Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:55:03.358Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T04:55:03.807Z] ✅ Clicou em "Processos"
+[2025-05-21T04:55:03.957Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T04:55:05.153Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T04:55:05.375Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T04:55:07.001Z] ✅ Clicou em "Cadastro"
+[2025-05-21T04:55:07.153Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T04:55:08.236Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T04:55:08.359Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T04:55:13.264Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T04:55:13.407Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T04:55:13.797Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T04:55:13.913Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T04:55:14.159Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T04:55:14.296Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T04:55:14.405Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T04:55:14.527Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T04:55:14.627Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T04:55:14.730Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T04:55:14.734Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T04:55:24.856Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T04:55:37.211Z] ✅ Processo enviado com sucesso
+[2025-05-21T04:55:37.546Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T04:55:43.142Z] 🔢 Número da solicitação capturado: 6876
+[2025-05-21T04:55:46.001Z] ✅ Login realizado
+[2025-05-21T04:55:46.127Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T04:55:46.147Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T04:55:46.415Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T04:55:46.832Z] ✅ Clicou em "Processos"
+[2025-05-21T04:55:46.965Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T04:55:47.612Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T04:55:48.252Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T04:55:48.435Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T04:55:58.821Z] ❌ Erro capturado: Waiting until element is visible
+Wait timed out after 10212ms
+[2025-05-21T04:56:09.229Z] >> Teste finalizado
+[2025-05-21T05:00:46.373Z] >> Iniciando teste
+[2025-05-21T05:00:53.537Z] ✅ Login realizado
+[2025-05-21T05:00:53.711Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T05:00:53.742Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:00:54.060Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T05:00:54.492Z] ✅ Clicou em "Processos"
+[2025-05-21T05:00:54.639Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T05:00:55.411Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T05:00:56.181Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T05:00:57.944Z] ✅ Clicou em "Cadastro"
+[2025-05-21T05:00:58.110Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T05:00:59.211Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T05:01:01.725Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T05:01:04.603Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T05:01:04.804Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T05:01:05.122Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T05:01:05.253Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T05:01:05.463Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T05:01:05.589Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T05:01:05.707Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T05:01:05.826Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T05:01:05.928Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T05:01:06.032Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T05:01:06.036Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T05:01:16.150Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T05:01:17.241Z] ✅ Processo enviado com sucesso
+[2025-05-21T05:01:17.434Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T05:01:22.911Z] 🔢 Número da solicitação capturado: 6877
+[2025-05-21T05:01:26.198Z] ✅ Login realizado
+[2025-05-21T05:01:26.335Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T05:01:26.352Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:01:26.981Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T05:01:27.448Z] ✅ Clicou em "Processos"
+[2025-05-21T05:01:27.580Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T05:01:28.673Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T05:01:28.870Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T05:01:28.883Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T05:01:42.268Z] ❌ Erro capturado: Waiting until element is visible
+Wait timed out after 10166ms
+[2025-05-21T05:01:52.533Z] >> Teste finalizado
+[2025-05-21T05:01:58.467Z] >> Iniciando teste
+[2025-05-21T05:02:05.315Z] ✅ Login realizado
+[2025-05-21T05:02:05.455Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T05:02:05.484Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:02:05.990Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T05:02:06.467Z] ✅ Clicou em "Processos"
+[2025-05-21T05:02:06.606Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T05:02:08.093Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T05:02:08.319Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T05:02:09.919Z] ✅ Clicou em "Cadastro"
+[2025-05-21T05:02:10.087Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T05:02:11.162Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T05:02:12.966Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T05:02:15.929Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T05:02:16.085Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T05:02:16.450Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T05:02:16.582Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T05:02:16.917Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T05:02:17.051Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T05:02:17.181Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T05:02:17.288Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T05:02:17.402Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T05:02:17.540Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T05:02:17.544Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T05:02:27.658Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T05:02:28.849Z] ✅ Processo enviado com sucesso
+[2025-05-21T05:02:29.033Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T05:02:34.816Z] 🔢 Número da solicitação capturado: 6878
+[2025-05-21T05:02:37.862Z] ✅ Login realizado
+[2025-05-21T05:02:38.010Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T05:02:38.040Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:02:38.248Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T05:02:38.835Z] ✅ Clicou em "Processos"
+[2025-05-21T05:02:38.963Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T05:02:40.058Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T05:02:40.217Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T05:02:40.228Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T05:03:00.514Z] ❌ Erro capturado: Key is not defined
+[2025-05-21T05:03:10.941Z] >> Teste finalizado
+[2025-05-21T05:04:46.573Z] >> Iniciando teste
+[2025-05-21T05:04:54.325Z] ✅ Login realizado
+[2025-05-21T05:04:54.500Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T05:04:54.521Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:04:54.764Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T05:04:55.336Z] ✅ Clicou em "Processos"
+[2025-05-21T05:04:55.459Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T05:04:56.726Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T05:04:56.903Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T05:04:58.385Z] ✅ Clicou em "Cadastro"
+[2025-05-21T05:04:58.545Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T05:04:59.671Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T05:05:01.526Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T05:05:04.145Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T05:05:04.281Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T05:05:04.662Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T05:05:04.796Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T05:05:04.990Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T05:05:05.114Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T05:05:05.229Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T05:05:05.322Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T05:05:05.414Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T05:05:05.534Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T05:05:05.539Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T05:05:15.707Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T05:05:16.850Z] ✅ Processo enviado com sucesso
+[2025-05-21T05:05:17.020Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T05:05:22.758Z] 🔢 Número da solicitação capturado: 6879
+[2025-05-21T05:05:25.808Z] ✅ Login realizado
+[2025-05-21T05:05:25.940Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T05:05:25.960Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:05:26.232Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T05:05:26.602Z] ✅ Clicou em "Processos"
+[2025-05-21T05:05:26.726Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T05:05:27.718Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T05:05:27.929Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T05:05:47.961Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T05:06:18.266Z] ❌ Erro capturado: Waiting until element is visible
+Wait timed out after 10142ms
+[2025-05-21T05:06:28.432Z] >> Teste finalizado
+[2025-05-21T05:07:35.203Z] >> Iniciando teste
+[2025-05-21T05:07:42.303Z] ✅ Login realizado
+[2025-05-21T05:07:42.465Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T05:07:42.485Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:07:42.775Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T05:07:43.175Z] ✅ Clicou em "Processos"
+[2025-05-21T05:07:43.324Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T05:07:44.431Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T05:07:44.648Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T05:07:46.168Z] ✅ Clicou em "Cadastro"
+[2025-05-21T05:07:46.319Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T05:07:47.410Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T05:07:47.535Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T05:07:52.552Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T05:07:52.693Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T05:07:53.054Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T05:07:53.174Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T05:07:53.379Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T05:07:53.495Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T05:07:53.614Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T05:07:53.747Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T05:07:53.855Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T05:07:53.954Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T05:07:53.958Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T05:08:04.120Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T05:08:05.323Z] ✅ Processo enviado com sucesso
+[2025-05-21T05:08:05.490Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T05:08:11.031Z] 🔢 Número da solicitação capturado: 6880
+[2025-05-21T05:08:12.688Z] ✅ Login realizado
+[2025-05-21T05:08:13.984Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T05:08:14.004Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:08:14.275Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T05:08:14.732Z] ✅ Clicou em "Processos"
+[2025-05-21T05:08:14.865Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T05:08:15.949Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T05:08:16.112Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T05:08:16.122Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T05:08:46.467Z] ❌ Erro capturado: Waiting until element is visible
+Wait timed out after 10147ms
+[2025-05-21T05:08:56.993Z] >> Teste finalizado
+[2025-05-21T05:12:18.669Z] >> Iniciando teste
+[2025-05-21T05:12:25.310Z] ✅ Login realizado
+[2025-05-21T05:12:25.490Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T05:12:25.524Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:12:25.860Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T05:12:26.314Z] ✅ Clicou em "Processos"
+[2025-05-21T05:12:26.452Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T05:12:27.575Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T05:12:27.783Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T05:12:29.344Z] ✅ Clicou em "Cadastro"
+[2025-05-21T05:12:29.490Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T05:12:30.601Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T05:12:30.750Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T05:12:34.927Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T05:12:35.078Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T05:12:35.450Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T05:12:35.583Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T05:12:35.787Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T05:12:35.894Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T05:12:36.135Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T05:12:36.251Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T05:12:36.345Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T05:12:36.469Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T05:12:36.473Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T05:12:46.588Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T05:12:47.673Z] ✅ Processo enviado com sucesso
+[2025-05-21T05:12:47.814Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T05:12:53.280Z] 🔢 Número da solicitação capturado: 6881
+[2025-05-21T05:12:56.439Z] ✅ Login realizado
+[2025-05-21T05:12:56.572Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T05:12:56.586Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:12:56.831Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T05:12:57.227Z] ✅ Clicou em "Processos"
+[2025-05-21T05:12:57.367Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T05:12:58.590Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T05:12:58.734Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T05:12:58.743Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T05:13:08.957Z] ❌ Erro capturado: Waiting until element is visible
+Wait timed out after 10070ms
+[2025-05-21T05:13:19.294Z] >> Teste finalizado
+[2025-05-21T05:15:46.580Z] >> Iniciando teste
+[2025-05-21T05:15:54.011Z] ✅ Login realizado
+[2025-05-21T05:15:54.178Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T05:15:54.218Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:15:54.455Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T05:15:54.964Z] ✅ Clicou em "Processos"
+[2025-05-21T05:15:55.121Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T05:15:55.812Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T05:15:56.696Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T05:15:58.406Z] ✅ Clicou em "Cadastro"
+[2025-05-21T05:15:58.588Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T05:15:59.679Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T05:16:01.442Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T05:16:03.895Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T05:16:04.047Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T05:16:04.442Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T05:16:04.567Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T05:16:04.765Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T05:16:04.874Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T05:16:05.015Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T05:16:05.133Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T05:16:05.227Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T05:16:05.373Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T05:16:05.377Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T05:16:15.485Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T05:16:16.584Z] ✅ Processo enviado com sucesso
+[2025-05-21T05:16:16.740Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T05:16:22.859Z] 🔢 Número da solicitação capturado: 6882
+[2025-05-21T05:16:25.824Z] ✅ Login realizado
+[2025-05-21T05:16:25.942Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T05:16:25.968Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:16:26.211Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T05:16:26.755Z] ✅ Clicou em "Processos"
+[2025-05-21T05:16:26.892Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T05:16:27.951Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T05:16:28.144Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T05:16:28.155Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T05:16:48.500Z] ❌ Erro capturado: Waiting until element is visible
+Wait timed out after 10164ms
+[2025-05-21T05:16:58.770Z] >> Teste finalizado
+[2025-05-21T05:19:26.013Z] >> Iniciando teste
+[2025-05-21T05:19:32.916Z] ✅ Login realizado
+[2025-05-21T05:19:33.047Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T05:19:33.076Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:19:33.350Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T05:19:33.829Z] ✅ Clicou em "Processos"
+[2025-05-21T05:19:33.976Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T05:19:34.682Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T05:19:35.307Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T05:19:37.057Z] ✅ Clicou em "Cadastro"
+[2025-05-21T05:19:37.225Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T05:19:38.257Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T05:19:38.379Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T05:19:42.944Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T05:19:43.104Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T05:19:43.503Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T05:19:43.612Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T05:19:43.798Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T05:19:43.903Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T05:19:44.021Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T05:19:44.130Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T05:19:44.230Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T05:19:44.350Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T05:19:44.354Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T05:19:54.482Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T05:19:55.670Z] ✅ Processo enviado com sucesso
+[2025-05-21T05:19:55.896Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T05:20:01.771Z] 🔗 href capturado: https://devfluig.xplanning.com.br/portal/p/01/pageworkflowview?app_ecm_workflowview_detailsProcessInstanceID=6883
+[2025-05-21T05:20:01.771Z] 🔢 Número da solicitação extraído: null
+[2025-05-21T05:20:01.933Z] ❌ Erro capturado: ❌ Número da solicitação não foi extraído corretamente!
+[2025-05-21T05:20:12.052Z] >> Teste finalizado
+[2025-05-21T05:23:18.089Z] >> Iniciando teste
+[2025-05-21T05:23:25.347Z] ✅ Login realizado
+[2025-05-21T05:23:25.490Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T05:23:25.524Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:23:25.840Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T05:23:26.320Z] ✅ Clicou em "Processos"
+[2025-05-21T05:23:26.505Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T05:23:27.283Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T05:23:28.148Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T05:23:30.022Z] ✅ Clicou em "Cadastro"
+[2025-05-21T05:23:30.217Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T05:23:31.328Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T05:23:33.171Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T05:23:35.775Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T05:23:35.949Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T05:23:36.292Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T05:23:36.435Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T05:23:36.710Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T05:23:36.814Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T05:23:36.928Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T05:23:37.043Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T05:23:37.137Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T05:23:37.244Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T05:23:37.248Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T05:23:47.410Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T05:23:48.698Z] ✅ Processo enviado com sucesso
+[2025-05-21T05:23:48.862Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T05:23:54.985Z] 🔗 href capturado: https://devfluig.xplanning.com.br/portal/p/01/pageworkflowview?app_ecm_workflowview_detailsProcessInstanceID=6884
+[2025-05-21T05:23:54.986Z] 🔢 Número da solicitação extraído: null
+[2025-05-21T05:23:55.150Z] ❌ Erro capturado: ❌ Número da solicitação não foi extraído corretamente!
+[2025-05-21T05:24:05.463Z] >> Teste finalizado
+[2025-05-21T05:34:13.971Z] >> Iniciando teste
+[2025-05-21T05:34:22.300Z] ✅ Login realizado
+[2025-05-21T05:34:22.462Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T05:34:22.485Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:34:22.735Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T05:34:23.342Z] ✅ Clicou em "Processos"
+[2025-05-21T05:34:23.489Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T05:34:24.829Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T05:34:25.014Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T05:34:26.767Z] ✅ Clicou em "Cadastro"
+[2025-05-21T05:34:26.895Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T05:34:28.127Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T05:34:28.248Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T05:34:33.030Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T05:34:33.185Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T05:34:33.584Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T05:34:33.692Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T05:34:33.883Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T05:34:33.990Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T05:34:34.113Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T05:34:34.218Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T05:34:34.312Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T05:34:34.424Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T05:34:34.428Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T05:34:44.576Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T05:34:45.720Z] ✅ Processo enviado com sucesso
+[2025-05-21T05:34:46.052Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T05:34:51.607Z] 🔢 Número da solicitação capturado: 6885
+[2025-05-21T05:34:54.509Z] ✅ Login realizado
+[2025-05-21T05:34:54.629Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T05:34:54.644Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:34:54.885Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T05:34:55.275Z] ✅ Clicou em "Processos"
+[2025-05-21T05:34:55.689Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T05:34:57.193Z] ❌ Erro capturado: element click intercepted: Element <span class="menu-item-title" title="...">Consultar Solicitações</span> is not clickable at point (66, 12). Other element would receive the click: <div class="inner-header-navbar fs-display-flex fs-align-items-center fs-justify-content-center">...</div>
+  (Session info: chrome=136.0.7103.114)
+[2025-05-21T05:35:07.448Z] >> Teste finalizado
+[2025-05-21T05:35:34.994Z] >> Iniciando teste
+[2025-05-21T05:35:41.986Z] ✅ Login realizado
+[2025-05-21T05:35:42.125Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T05:35:42.148Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:35:42.436Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T05:35:43.029Z] ✅ Clicou em "Processos"
+[2025-05-21T05:35:43.176Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T05:35:44.209Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T05:35:44.442Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T05:35:46.024Z] ✅ Clicou em "Cadastro"
+[2025-05-21T05:35:46.157Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T05:35:47.257Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T05:35:49.203Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T05:35:52.398Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T05:35:52.575Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T05:35:52.954Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T05:35:53.063Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T05:35:53.269Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T05:35:53.398Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T05:35:53.517Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T05:35:53.652Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T05:35:53.744Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T05:35:53.852Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T05:35:53.856Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T05:36:03.988Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T05:36:05.093Z] ✅ Processo enviado com sucesso
+[2025-05-21T05:36:05.285Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T05:36:11.030Z] 🔢 Número da solicitação capturado: 6886
+[2025-05-21T05:36:13.924Z] ✅ Login realizado
+[2025-05-21T05:36:14.056Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T05:36:14.071Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:36:14.313Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T05:36:14.884Z] ✅ Clicou em "Processos"
+[2025-05-21T05:36:15.021Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T05:36:16.030Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T05:36:16.248Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T05:36:16.256Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T05:36:26.257Z] ⌛ Localizando campo filter_by_requests...
+[2025-05-21T05:36:26.298Z] ✅ Campo localizado
+[2025-05-21T05:36:36.697Z] ❌ Erro capturado: Waiting until element is visible
+Wait timed out after 10255ms
+[2025-05-21T05:36:46.797Z] >> Teste finalizado
+[2025-05-21T05:51:18.872Z] >> Iniciando teste
+[2025-05-21T05:51:29.338Z] ✅ Login realizado
+[2025-05-21T05:51:29.584Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T05:51:29.627Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:51:29.970Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T05:51:30.581Z] ✅ Clicou em "Processos"
+[2025-05-21T05:51:30.762Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T05:51:32.641Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T05:51:33.213Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T05:51:34.673Z] ✅ Clicou em "Cadastro"
+[2025-05-21T05:51:34.949Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T05:51:37.922Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T05:51:39.877Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T05:51:42.888Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T05:51:43.177Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T05:51:43.674Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T05:51:43.830Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T05:51:44.160Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T05:51:44.288Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T05:51:44.477Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T05:51:44.695Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T05:51:44.954Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T05:51:45.209Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T05:51:45.218Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T05:51:55.488Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T05:52:00.359Z] ✅ Processo enviado com sucesso
+[2025-05-21T05:52:00.661Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T05:52:06.336Z] 🔢 Número da solicitação capturado: 6887
+[2025-05-21T05:52:12.446Z] ✅ Login realizado
+[2025-05-21T05:52:12.626Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T05:52:12.652Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:52:12.983Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T05:52:13.492Z] ✅ Clicou em "Processos"
+[2025-05-21T05:52:13.644Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T05:52:14.974Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T05:52:15.183Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T05:52:15.201Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T05:52:25.212Z] ⌛ Localizando campo filter_by_requests...
+[2025-05-21T05:52:25.333Z] ✅ Campo localizado
+[2025-05-21T05:52:25.798Z] 📸 Screenshot salva: step-18-antes-de-validar-visibility-input.png
+[2025-05-21T05:52:36.600Z] ❌ Erro capturado: Wait timed out after 10538ms
+[2025-05-21T05:52:47.211Z] >> Teste finalizado
+[2025-05-21T05:59:07.513Z] >> Iniciando teste
+[2025-05-21T05:59:22.251Z] ✅ Login realizado
+[2025-05-21T05:59:22.510Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T05:59:22.555Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T05:59:22.947Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T05:59:23.706Z] ✅ Clicou em "Processos"
+[2025-05-21T05:59:23.876Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T05:59:25.529Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T05:59:25.940Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T05:59:27.245Z] ✅ Clicou em "Cadastro"
+[2025-05-21T05:59:27.469Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T05:59:28.709Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T05:59:30.554Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T05:59:41.042Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T05:59:41.277Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T05:59:41.934Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T05:59:42.187Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T05:59:42.505Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T05:59:42.637Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T05:59:42.832Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T05:59:42.986Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T05:59:43.135Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T05:59:43.326Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T05:59:43.333Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T05:59:53.645Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T05:59:58.271Z] ✅ Processo enviado com sucesso
+[2025-05-21T05:59:58.885Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T06:00:04.537Z] 🔢 Número da solicitação capturado: 6888
+[2025-05-21T06:00:11.963Z] ✅ Login realizado
+[2025-05-21T06:00:12.105Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T06:00:12.126Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T06:00:12.413Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T06:00:12.939Z] ✅ Clicou em "Processos"
+[2025-05-21T06:00:13.113Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T06:00:14.678Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T06:00:14.978Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T06:00:15.036Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T06:00:16.662Z] 🔁 Campo forçado para foco e visibilidade
+[2025-05-21T06:00:19.018Z] ✅ Número da solicitação inserido
+[2025-05-21T06:00:19.335Z] 📸 Screenshot salva: step-18-campo-numero-solicitacao.png
+[2025-05-21T06:00:32.069Z] ❌ Erro capturado: Waiting for element to be located By(css selector, [data-take-task])
+Wait timed out after 10183ms
+[2025-05-21T06:00:42.730Z] >> Teste finalizado
+[2025-05-21T06:16:01.381Z] >> Iniciando teste
+[2025-05-21T06:16:16.469Z] ✅ Login realizado
+[2025-05-21T06:16:16.654Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T06:16:16.699Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T06:16:17.045Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T06:16:17.796Z] ✅ Clicou em "Processos"
+[2025-05-21T06:16:17.973Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T06:16:19.977Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T06:16:20.437Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T06:16:24.283Z] ✅ Clicou em "Cadastro"
+[2025-05-21T06:16:24.598Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T06:16:26.610Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T06:16:30.088Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T06:16:53.182Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T06:16:53.468Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T06:16:53.944Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T06:16:54.116Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T06:16:54.574Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T06:16:54.791Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T06:16:54.999Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T06:16:55.156Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T06:16:55.316Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T06:16:55.567Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T06:16:55.572Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T06:17:06.015Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T06:17:08.843Z] ✅ Processo enviado com sucesso
+[2025-05-21T06:17:09.143Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T06:17:14.908Z] 🔢 Número da solicitação capturado: 6889
+[2025-05-21T06:17:20.870Z] ✅ Login realizado
+[2025-05-21T06:17:21.088Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T06:17:21.123Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T06:17:21.778Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T06:17:22.566Z] ✅ Clicou em "Processos"
+[2025-05-21T06:17:22.765Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T06:17:24.480Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T06:17:24.664Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T06:17:24.709Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T06:17:26.249Z] 🔁 Campo forçado para foco e visibilidade
+[2025-05-21T06:17:28.544Z] ✅ Número da solicitação inserido
+[2025-05-21T06:17:28.785Z] 📸 Screenshot salva: step-18-campo-numero-solicitacao.png
+[2025-05-21T06:17:42.001Z] ❌ Erro capturado: Waiting for element to be located By(css selector, #workflowActions [data-take-task])
+Wait timed out after 10218ms
+[2025-05-21T06:17:52.649Z] >> Teste finalizado
+[2025-05-21T06:24:13.978Z] >> Iniciando teste
+[2025-05-21T06:24:28.653Z] ✅ Login realizado
+[2025-05-21T06:24:28.873Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T06:24:28.934Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T06:24:29.300Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T06:24:30.530Z] ✅ Clicou em "Processos"
+[2025-05-21T06:24:30.887Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T06:24:33.022Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T06:24:33.315Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T06:24:35.282Z] ✅ Clicou em "Cadastro"
+[2025-05-21T06:24:35.535Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T06:24:38.018Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T06:24:40.474Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T06:24:47.429Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T06:24:47.638Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T06:24:48.076Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T06:24:48.256Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T06:24:48.611Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T06:24:48.778Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T06:24:48.963Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T06:24:49.260Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T06:24:49.403Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T06:24:49.782Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T06:24:49.792Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T06:25:00.161Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T06:25:05.542Z] ✅ Processo enviado com sucesso
+[2025-05-21T06:25:05.870Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T06:25:11.811Z] 🔢 Número da solicitação capturado: 6890
+[2025-05-21T06:25:19.181Z] ✅ Login realizado
+[2025-05-21T06:25:19.350Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T06:25:19.376Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T06:25:19.676Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T06:25:20.233Z] ✅ Clicou em "Processos"
+[2025-05-21T06:25:20.410Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T06:25:22.535Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T06:25:22.758Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T06:25:22.806Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T06:25:24.480Z] 🔁 Campo forçado para foco e visibilidade
+[2025-05-21T06:25:26.792Z] ✅ Número da solicitação inserido
+[2025-05-21T06:25:26.998Z] 📸 Screenshot salva: step-18-campo-numero-solicitacao.png
+[2025-05-21T06:25:44.264Z] ❌ Erro capturado: Waiting for element to be located By(css selector, #workflowActions [data-take-task])
+Wait timed out after 12786ms
+[2025-05-21T06:25:54.866Z] >> Teste finalizado
+[2025-05-21T06:28:21.289Z] >> Iniciando teste
+[2025-05-21T06:28:49.854Z] ✅ Login realizado
+[2025-05-21T06:28:50.050Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T06:28:50.120Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T06:28:50.541Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T06:28:51.520Z] ✅ Clicou em "Processos"
+[2025-05-21T06:28:51.707Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T06:28:54.035Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T06:28:54.564Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T06:28:56.153Z] ✅ Clicou em "Cadastro"
+[2025-05-21T06:28:56.378Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T06:29:00.474Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T06:29:08.734Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T06:29:15.298Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T06:29:15.500Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T06:29:16.045Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T06:29:16.266Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T06:29:16.668Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T06:29:16.829Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T06:29:17.046Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T06:29:17.203Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T06:29:17.365Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T06:29:17.510Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T06:29:17.517Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T06:29:27.701Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T06:29:28.913Z] ✅ Processo enviado com sucesso
+[2025-05-21T06:29:29.264Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T06:29:34.623Z] 🔢 Número da solicitação capturado: 6891
+[2025-05-21T06:29:41.308Z] ✅ Login realizado
+[2025-05-21T06:29:41.480Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T06:29:41.509Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T06:29:41.796Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T06:29:42.338Z] ✅ Clicou em "Processos"
+[2025-05-21T06:29:42.527Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T06:29:44.429Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T06:29:44.645Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T06:29:44.697Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T06:29:46.325Z] 🔁 Campo forçado para foco e visibilidade
+[2025-05-21T06:29:48.734Z] ✅ Número da solicitação inserido
+[2025-05-21T06:29:48.923Z] 📸 Screenshot salva: step-18-campo-numero-solicitacao.png
+[2025-05-21T06:29:54.223Z] 🪟 Nova aba da solicitação aberta
+[2025-05-21T06:29:57.718Z] 📸 Screenshot salva: step-19-nova-aba-solicitacao.png
+[2025-05-21T06:29:59.025Z] ✅ Tarefa assumida com sucesso
+[2025-05-21T06:29:59.316Z] 📸 Screenshot salva: step-20-tarefa-assumida.png
+[2025-05-21T06:30:11.452Z] ✅ Solicitação reenviada pelo usuário 2
+[2025-05-21T06:30:22.085Z] >> Teste finalizado
+[2025-05-21T06:39:24.542Z] >> Iniciando teste
+[2025-05-21T06:39:42.332Z] ✅ Login realizado
+[2025-05-21T06:39:42.604Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T06:39:42.662Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T06:39:43.267Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T06:39:43.931Z] ✅ Clicou em "Processos"
+[2025-05-21T06:39:44.119Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T06:39:46.852Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T06:39:47.271Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T06:39:48.598Z] ✅ Clicou em "Cadastro"
+[2025-05-21T06:39:48.857Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T06:40:00.202Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T06:40:00.369Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T06:40:20.032Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T06:40:20.421Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T06:40:20.831Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T06:40:21.038Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T06:40:21.376Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T06:40:21.591Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T06:40:21.785Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T06:40:21.951Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T06:40:22.171Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T06:40:22.351Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T06:40:22.358Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T06:40:32.570Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T06:40:33.756Z] ✅ Processo enviado com sucesso
+[2025-05-21T06:40:33.969Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T06:40:39.881Z] 🔢 Número da solicitação capturado: 6892
+[2025-05-21T06:40:46.113Z] ✅ Login realizado
+[2025-05-21T06:40:46.306Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T06:40:46.326Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T06:40:47.621Z] ❌ Erro capturado: element click intercepted: Element <button class="btn btn-link btn-lg btn-toggle-menu fs-sm-margin-right hidden-md hidden-lg" type="button" data-toggle-main-menu="">...</button> is not clickable at point (35, 40). Other element would receive the click: <div class="fluig-style-guide container-modal" style="top: 0px; height: 100%; position: fixed; z-index: 1070;">...</div>
+  (Session info: chrome=136.0.7103.114)
+[2025-05-21T06:40:58.313Z] >> Teste finalizado
+[2025-05-21T06:41:06.986Z] >> Iniciando teste
+[2025-05-21T06:41:24.000Z] ✅ Login realizado
+[2025-05-21T06:41:24.257Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T06:41:24.399Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T06:41:24.781Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T06:41:25.960Z] ✅ Clicou em "Processos"
+[2025-05-21T06:41:26.242Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T06:41:27.817Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T06:41:29.090Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T06:41:29.564Z] ✅ Clicou em "Cadastro"
+[2025-05-21T06:41:29.823Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T06:41:32.543Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T06:41:34.825Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T06:41:51.383Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T06:41:51.625Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T06:41:52.057Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T06:41:52.414Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T06:41:53.052Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T06:41:53.219Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T06:41:53.437Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T06:41:53.599Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T06:41:53.764Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T06:41:53.936Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T06:41:53.945Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T06:42:04.294Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T06:42:11.930Z] ✅ Processo enviado com sucesso
+[2025-05-21T06:42:12.395Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T06:42:17.597Z] 🔢 Número da solicitação capturado: 6893
+[2025-05-21T06:42:25.305Z] ✅ Login realizado
+[2025-05-21T06:42:25.549Z] 📸 Screenshot salva: step-14-login-ok.png
+[2025-05-21T06:42:25.602Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T06:42:25.948Z] 📸 Screenshot salva: step-15-menu-lateral-aberto.png
+[2025-05-21T06:42:26.502Z] ✅ Clicou em "Processos"
+[2025-05-21T06:42:26.700Z] 📸 Screenshot salva: step-16-clicou-processos.png
+[2025-05-21T06:42:27.650Z] ✅ Clicou em "Consultar Solicitações"
+[2025-05-21T06:42:28.422Z] 📸 Screenshot salva: step-17-clicou-consultar-solicitacoes.png
+[2025-05-21T06:42:28.483Z] ✅ Tipo de filtro alterado para "Por solicitações"
+[2025-05-21T06:42:30.057Z] 🔁 Campo forçado para foco e visibilidade
+[2025-05-21T06:42:32.413Z] ✅ Número da solicitação inserido
+[2025-05-21T06:42:32.699Z] 📸 Screenshot salva: step-18-campo-numero-solicitacao.png
+[2025-05-21T06:42:35.248Z] 🪟 Nova aba da solicitação aberta
+[2025-05-21T06:42:37.995Z] 📸 Screenshot salva: step-19-nova-aba-solicitacao.png
+[2025-05-21T06:42:39.484Z] ✅ Tarefa assumida com sucesso
+[2025-05-21T06:42:39.848Z] 📸 Screenshot salva: step-20-tarefa-assumida.png
+[2025-05-21T06:42:47.713Z] ✅ Solicitação reenviada pelo usuário 2
+[2025-05-21T06:42:47.883Z] 📸 Screenshot salva: step-21-reenviado-usuario-2.png
+[2025-05-21T06:42:58.219Z] ❌ Erro capturado: Waiting for element to be located By(xpath, //a[contains(text(),'Acessar solicitação')])
+Wait timed out after 10169ms
+[2025-05-21T06:43:08.995Z] >> Teste finalizado
