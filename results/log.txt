@@ -515,3 +515,31 @@ Wait timed out after 516ms
 [2025-05-21T02:53:02.292Z] ✅ Processo enviado com sucesso
 [2025-05-21T02:53:02.791Z] 📸 Screenshot salva: step-12-processo-enviado.png
 [2025-05-21T02:53:04.292Z] >> Teste finalizado
+[2025-05-21T03:16:02.186Z] >> Iniciando teste
+[2025-05-21T03:16:16.817Z] ✅ Login realizado
+[2025-05-21T03:16:17.111Z] 📸 Screenshot salva: step-1-login-ok.png
+[2025-05-21T03:16:17.162Z] ℹ️ Nenhum alerta de senha visível
+[2025-05-21T03:16:17.490Z] 📸 Screenshot salva: step-2-menu-lateral-aberto.png
+[2025-05-21T03:16:18.634Z] ✅ Clicou em "Processos"
+[2025-05-21T03:16:18.969Z] 📸 Screenshot salva: step-3-clicou-processos.png
+[2025-05-21T03:16:21.175Z] ✅ Clicou em "Iniciar Solicitações"
+[2025-05-21T03:16:21.763Z] 📸 Screenshot salva: step-4-clicou-iniciar-solicitacoes.png
+[2025-05-21T03:16:23.063Z] ✅ Clicou em "Cadastro"
+[2025-05-21T03:16:23.280Z] 📸 Screenshot salva: step-5-clicou-cadastro.png
+[2025-05-21T03:16:25.076Z] ✅ Clicou em "Cadastro de Clientes"
+[2025-05-21T03:16:29.536Z] 📸 Screenshot salva: step-6-clicou-cadastro-clientes.png
+[2025-05-21T03:16:38.758Z] ✅ Trocou para o iframe do formulário
+[2025-05-21T03:16:38.989Z] 📸 Screenshot salva: step-7-entrou-no-iframe.png
+[2025-05-21T03:16:39.427Z] ✅ Aba "Cadastrais" clicada
+[2025-05-21T03:16:39.611Z] 📸 Screenshot salva: step-8-aba-cadastrais.png
+[2025-05-21T03:16:39.998Z] ✅ Campo A1_NOME preenchido
+[2025-05-21T03:16:40.137Z] 📸 Screenshot salva: step-9-campo-A1_NOME-preenchido.png
+[2025-05-21T03:16:40.298Z] ✅ Selecionado "Sim" no campo hd_necesAnaliseArea
+[2025-05-21T03:16:40.447Z] 📸 Screenshot salva: step-10-campo-select-analisearea.png
+[2025-05-21T03:16:40.574Z] ✅ Selecionado "Cooperado" no campo hd_tipoCliente
+[2025-05-21T03:16:40.717Z] 📸 Screenshot salva: step-11-campo-select-tipoCliente.png
+[2025-05-21T03:16:40.723Z] 🔁 Saiu do iframe para acessar o botão Enviar
+[2025-05-21T03:16:41.890Z] 📸 Screenshot salva: step-12-antes-do-clique-enviar.png
+[2025-05-21T03:16:45.959Z] ✅ Processo enviado com sucesso
+[2025-05-21T03:16:46.228Z] 📸 Screenshot salva: step-13-processo-enviado.png
+[2025-05-21T03:16:47.847Z] >> Teste finalizado

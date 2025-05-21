@@ -116,6 +116,15 @@ async function captureStepScreenshot(driver, label = '') {
         log('✅ Selecionado "Sim" no campo hd_necesAnaliseArea');
         await captureStepScreenshot(driver, 'campo-select-analisearea');
 
+        // Seleciona "Cooperado"
+        const selectTipoCliente = await driver.wait(
+            until.elementLocated(By.id('hd_tipoCliente')),
+            10000
+        );
+        await selectTipoCliente.sendKeys('Cooperado');
+        log('✅ Selecionado "Cooperado" no campo hd_tipoCliente');
+        await captureStepScreenshot(driver, 'campo-select-tipoCliente');
+
         await driver.switchTo().defaultContent(); // ⬅️ volta para o DOM principal
         log('🔁 Saiu do iframe para acessar o botão Enviar');
 
